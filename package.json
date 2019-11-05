@@ -16,7 +16,7 @@
     "express": "^4.17.0",
     "i18n": "^0.8.3",
     "mongodb": "^3.2.5",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "node-telegram-bot-api": "^0.30.0",
     "request": "^2.88.0",
     "supports-color": "^7.0.0"
